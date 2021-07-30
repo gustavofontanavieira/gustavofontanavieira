@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá xD
+- 🌱 Etudando Desenvolvimento de Sistemas na ETEC de Barueri :)
+- 🕶  17 Anos 
+ <div>
+  <a href="https://github.com/gustavofontanavieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofontanavieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanavieira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <a href="https://www.facebook.com/gustavo.fontanavieira" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1109/PNG/512/1486053608-facebook_79182.png" target="_blank" width="45px"></a>
+  <a href="https://www.instagram.com/guhh_fv/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1582/PNG/512/instagram_108043.png" target="_blank" width="45px"></a>
 
-<!--
-**gustavofontanavieira/gustavofontanavieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Que a força esteja com você!</h2>
+  <img src="https://media1.tenor.com/images/cc1773b3b5dd7ad89bdd62acc663e9db/tenor.gif" width="250px">
