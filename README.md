@@ -10,5 +10,3 @@ Olá xD
   <a href="https://www.facebook.com/gustavo.fontanavieira" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1109/PNG/512/1486053608-facebook_79182.png" target="_blank" width="45px"></a>
   <a href="https://www.instagram.com/guhh_fv/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1582/PNG/512/instagram_108043.png" target="_blank" width="45px"></a>
 
-  <h2>Que a força esteja com você!</h2>
-  <img src="https://media1.tenor.com/images/cc1773b3b5dd7ad89bdd62acc663e9db/tenor.gif" width="250px">
