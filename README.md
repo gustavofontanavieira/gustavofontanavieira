@@ -11,3 +11,5 @@ Olá xD
   <a href="https://www.facebook.com/gustavo.fontanavieira" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1109/PNG/512/1486053608-facebook_79182.png" target="_blank" width="45px"></a>
   <a href="https://www.instagram.com/guhh_fv/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1582/PNG/512/instagram_108043.png" target="_blank" width="45px"></a>
 
+ <h1>Só a visita </h1>
+ <div align="center"><a title='Contador de Visitas do MegaContador' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-p0XohF470zE4qebV-6.gif' border='0' alt='Contador de visitas'></a></div>
