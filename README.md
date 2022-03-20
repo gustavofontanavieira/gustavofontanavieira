@@ -1,5 +1,5 @@
 Olá xD
-- 🌱 Etudando Desenvolvimento de Sistemas na ETEC de Barueri :)
+- 🌱 Estudando Desenvolvimento de Sistemas na ETEC de Barueri :)
 - 🕶  17 Anos 
 - Conecte-se comigo no linkedin: https://www.linkedin.com/in/gustavo-fontana-vieira-741299209/
  <div>
