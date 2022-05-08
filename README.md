@@ -4,8 +4,8 @@ Hello! xD
 - 👀 My linkedin: https://www.linkedin.com/in/gustavo-fontana-vieira-741299209/
 - 💀 I’m currently learning Javascript, TypeScript and NestJS
 - 💻 I’m interested in Javascript, ReactJS and ReactNative.
-- <hr>
  <div>
+ <hr>
   <a href="https://github.com/gustavofontanavieira">
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanavieira&layout=compact&theme=midnight-purple"/>
    <p align="center">
