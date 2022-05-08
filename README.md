@@ -8,7 +8,6 @@ Hello! xD
  <hr>
   <a href="https://github.com/gustavofontanavieira">
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanavieira&layout=compact&theme=midnight-purple"/>
-   <p align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavofontanavieira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    </p>
    <hr>
