@@ -12,7 +12,7 @@
 
 ### Conecte-se comigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/MaxWilliam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/gustavo-fontana-vieira-741299209/)
+[![Linkedin Badge](https://img.shields.io/badge/GustavoFontana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/gustavo-fontana-vieira-741299209/)
 
 ### Conhecimentos
 
