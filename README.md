@@ -1,9 +1,6 @@
 Hello! xD
-- 🌱 Studying System Development in ETEC Antonio Furlan :)
 - 🕶  18y
 - 👀 My linkedin: https://www.linkedin.com/in/gustavo-fontana-vieira-741299209/
-- 💀 I’m currently learning Javascript, TypeScript and NestJS
-- 💻 I’m interested in Javascript, ReactJS and Typescript.
  <div>
  <hr>
   <a href="https://github.com/gustavofontanavieira">
