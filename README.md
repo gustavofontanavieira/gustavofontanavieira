@@ -11,9 +11,11 @@
 </div>
 
 ### Conecte-se comigo:
+
 [![Linkedin Badge](https://img.shields.io/badge/MaxWilliam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/gustavo-fontana-vieira-741299209/)
-   <hr>
+
 ### Conhecimentos
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 [![MySQL_Workbench](https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white)]
