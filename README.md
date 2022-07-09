@@ -20,4 +20,4 @@
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/gustavofontanavieira)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/gustavofontanavieira)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/gustavofontanavieira)
-[![Typescript](https://img.shields.io/badge/TypeScript-563D7C?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gustavofontanavieira)
+[![Typescript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gustavofontanavieira)
