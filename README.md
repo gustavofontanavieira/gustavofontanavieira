@@ -6,7 +6,7 @@
    </p>
    <hr>
    <div align="center">
-     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofontanavieira&repo=portfolio&theme=dracula"(https://github.com/gustavofontanavieira/portfolio)
+     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofontanavieira&repo=portfolio&theme=midnight-purple">
      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavofontanavieira&theme=midnight-purple#version3"/>
    </div>
 </div>
