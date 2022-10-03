@@ -1,4 +1,5 @@
  <div>
+ <img src="https://github.com/gustavofontanavieira/gustavofontanavieira/hollow_knight.gif"></img>
  <hr>
   <a href="https://github.com/gustavofontanavieira">
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanavieira&layout=compact&theme=midnight-purple"/>
