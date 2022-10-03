@@ -1,5 +1,7 @@
  <div>
- <img src="https://github.com/gustavofontanavieira/gustavofontanavieira/blob/main/hollow_knight.gif" width="250px" height="250px" align="center"></img>
+ <div align="center">
+ <img src="https://github.com/gustavofontanavieira/gustavofontanavieira/blob/main/hollow_knight.gif" width="250px" height="250px" ></img>
+ </div>
  <hr>
   <a href="https://github.com/gustavofontanavieira">
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanavieira&layout=compact&theme=midnight-purple"/>
