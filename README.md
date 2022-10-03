@@ -1,6 +1,4 @@
  <div>
-
-<hr>
  <hr>
   <a href="https://github.com/gustavofontanavieira">
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanavieira&layout=compact&theme=midnight-purple"/>
